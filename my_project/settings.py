@@ -25,8 +25,8 @@ SECRET_KEY = 'django-insecure-vvze(w-t4v!im^0hfs++i5j=u)k*ki(%b0)ifk*tj9w_aw7)gs
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-guisselacp-djangoprojec-ozchiaqlx2q.ws.codeinstitute-ide.net']
-
+#ALLOWED_HOSTS = ['8000-guisselacp-djangoprojec-ozchiaqlx2q.ws.codeinstitute-ide.net']
+ALLOWED_HOSTS = ['8000-guisselacp-djangoprojec-c3p6ibj6bm5.ws.codeinstitute-ide.net']
 
 # Application definition
 
@@ -37,6 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'hello_world',
 ]
 
 MIDDLEWARE = [
