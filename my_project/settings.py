@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-vvze(w-t4v!im^0hfs++i5j=u)k*ki(%b0)ifk*tj9w_aw7)gs
 DEBUG = True
 
 #ALLOWED_HOSTS = ['8000-guisselacp-djangoprojec-ozchiaqlx2q.ws.codeinstitute-ide.net']
-ALLOWED_HOSTS = ['8000-guisselacp-djangoprojec-c3p6ibj6bm5.ws.codeinstitute-ide.net']
+ALLOWED_HOSTS = ['8000-guisselacp-djangoprojec-18dt00u1in3.ws.codeinstitute-ide.net']
 
 # Application definition
 
@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'hello_world',
+    'about',
 ]
 
 MIDDLEWARE = [
