@@ -27,7 +27,7 @@ DEBUG = False
 
 #ALLOWED_HOSTS = ['8000-guisselacp-djangoprojec-ozchiaqlx2q.ws.codeinstitute-ide.net']
 # ALLOWED_HOSTS = ['8000-guisselacp-djangoprojec-18dt00u1in3.ws.codeinstitute-ide.net','.herokuapp.com']
-ALLOWED_HOSTS = ['8000-guisselacp-djangoprojec-ujn5jlo610c.ws.codeinstitute-ide.net']
+ALLOWED_HOSTS = ['8000-guisselacp-djangoprojec-ujn5jlo610c.ws.codeinstitute-ide.net','.herokuapp.com']
 # Application definition
 
 INSTALLED_APPS = [
