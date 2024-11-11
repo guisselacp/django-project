@@ -26,8 +26,8 @@ SECRET_KEY = 'django-insecure-vvze(w-t4v!im^0hfs++i5j=u)k*ki(%b0)ifk*tj9w_aw7)gs
 DEBUG = False
 
 #ALLOWED_HOSTS = ['8000-guisselacp-djangoprojec-ozchiaqlx2q.ws.codeinstitute-ide.net']
-ALLOWED_HOSTS = ['8000-guisselacp-djangoprojec-18dt00u1in3.ws.codeinstitute-ide.net','.herokuapp.com']
-
+# ALLOWED_HOSTS = ['8000-guisselacp-djangoprojec-18dt00u1in3.ws.codeinstitute-ide.net','.herokuapp.com']
+ALLOWED_HOSTS = ['8000-guisselacp-djangoprojec-ujn5jlo610c.ws.codeinstitute-ide.net']
 # Application definition
 
 INSTALLED_APPS = [
